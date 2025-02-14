@@ -1,7 +1,6 @@
-<img src="images/png/waiting_dain.png" height="30" alt="dainicon"> <h1 align="center">Hi there! <img src="https://user-images.githubusercontent.com/44104676/173990923-48b66056-0bff-472a-b5bf-faab4146e950.gif" height="40" alt="waveicon"> I'm David!</h1>
+<h1 align="center">Hi there! <img src="https://user-images.githubusercontent.com/44104676/173990923-48b66056-0bff-472a-b5bf-faab4146e950.gif" height="40" alt="waveicon"> I'm David!</h1>
 
 <p align="center">
-    <img src="https://img.shields.io/badge/Enjoy-Coffee-C2FFC7?style=flat" />
     <img src="https://img.shields.io/badge/Love-Design-CB9DF0?style=flat" />
     <img src="https://img.shields.io/badge/Focus-Web%20Development-C2FFC7?style=flat" />
 </p>
