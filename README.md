@@ -43,8 +43,9 @@ In addition to my work as a developer, I also serve as a lecturer at DBE-Academy
 <a href="https://david-schuchert.de" target="blank"><img align="center" src="https://github.com/devicons/devicon/raw/refs/heads/master/icons/chrome/chrome-original.svg" alt="portfolio" height="30" /></a>
 </p>
 
-## Meine Contributions
-![GitHub Contribution Snake](https://raw.githubusercontent.com/Platane/snk/main/output/github-contribution-grid-snake-dark.svg)
+<h3 align="center">Contribution Snake</h3>
+
+![snake gif](https://github.com/DavidSchuchert/DavidSchuchert/blob/output/github-snake-dark.svg)
 
 
 <!--
