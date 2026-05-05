@@ -27,9 +27,7 @@ Two install modes:
 - **Remote** — run from your PC/Mac, connect via SSH
 - **Native** — push-install directly onto Batocera via SSH
 
-<a href="https://github.com/DavidSchuchert/Batocera-WebDashboard-Pro" target="_blank">
-<img src="https://raw.githubusercontent.com/DavidSchuchert/Batocera-WebDashboard-Pro/main/screenshots/dashboard-overview.png" width="75%" alt="Dashboard Screenshot"/>
-</a>
+[<img src="https://raw.githubusercontent.com/DavidSchuchert/Batocera-WebDashboard-Pro/main/screenshots/dashboard-overview.png" width="75%">](https://github.com/DavidSchuchert/Batocera-WebDashboard-Pro)
 
 <a href="https://github.com/DavidSchuchert/Batocera-WebDashboard-Pro" target="_blank"><img src="https://img.shields.io/github/stars/DavidSchuchert/Batocera-WebDashboard-Pro?style=flat&color=fbbf24" alt="Stars" height="20"></a>
 <a href="https://github.com/DavidSchuchert/Batocera-WebDashboard-Pro/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-0ea5e9?style=flat" alt="License" height="20"></a>
