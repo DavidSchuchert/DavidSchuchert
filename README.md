@@ -1,44 +1,31 @@
-<h1 align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-snake-dark.svg" width="65" alt="snake"/>
-</h1>
+# Hey, I'm David! 👋
 
-<h1 align="center">
-  <img src="https://user-images.githubusercontent.com/44104676/173990923-48b66056-0bff-472a-b5bf-faab4146e950.gif" height="36" alt="wave"/>
-  Moinsen! Ich bin <strong>David</strong>.
-</h1>
+**Full-Stack Web Developer** & **Lecturer at [DBE-Academy](https://dbe.academy)**
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Web%20Dev-10%2B%20Jahre-0ea5e9?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Dozent-DBE%20Academy-0ea5e9?style=for-the-badge&logo=academia&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Standort-Bad%20Hersfeld-0ea5e9?style=for-the-badge&logo=location&logoColor=white"/>
-</p>
+<a href="https://www.linkedin.com/in/david-schuchert-0ab892283/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin" alt="LinkedIn"/></a>
+<a href="https://david-schuchert.de" target="_blank"><img src="https://img.shields.io/badge/Portfolio-david--schuchert.de-CB9DF0?style=for-the-badge&logo=globe&logoColor=white" alt="Portfolio"/></a>
+<a href="https://dbe.academy" target="_blank"><img src="https://img.shields.io/badge/DBE-Academy-10b981?style=for-the-badge&logo=academia&logoColor=white" alt="DBE Academy"/></a>
+<img src="https://img.shields.io/badge/Location-Bad%20Hersfeld-0ea5e9?style=for-the-badge&logo=location&logoColor=white" alt="Location"/>
 
 ---
 
-## Was ich mache
+## About Me
 
-**Full-Stack Web Development** — vom Frontend bis zur Datenbank. Schwerpunkte:
+Full-stack web development for over 10 years — from pixel-perfect frontends to robust backends and databases. I build applications that actually work in production, not just in tutorials.
 
-- **Frontend:** TypeScript, React, Angular, Vue
-- **Backend:** PHP (Laravel), Node.js — API-Design und REST/GraphQL
-- **Datenbanken:** MySQL, SQLite, PostgreSQL
-- **DevOps:** Docker, CI/CD, Git
-
-**Nebenbei** unterrichte ich Webentwicklung und AI/ML an der [DBE-Academy](https://dbe.academy) — dort bringe ich Studis bei, wie man echte Anwendungen baut, nicht nur Tutorials.
+When I'm not coding, I teach web development and AI/ML at [DBE-Academy](https://dbe.academy). I believe in learning by building real projects, and I try to pass that on to my students.
 
 ---
 
-## Projekte
+## Featured Project
 
-<details open>
-<summary><b>Batocera WebDashboard PRO</b> — Web-Interface für Batocera Linux</summary>
+### [Batocera WebDashboard PRO](https://github.com/DavidSchuchert/Batocera-WebDashboard-Pro)
 
-> Verwalte ROMs, überwache System-Stats, browse Dateien — alles im Browser.  
-> **Remote-Modus:** vom PC aus via SSH. **Native-Modus:** direkt auf Batocera installiert.
+> A retro-styled web dashboard for [Batocera Linux](https://batocera.org/) — manage ROMs, monitor system stats, browse files, all from any browser on your network.
 
-[![Stars](https://img.shields.io/github/stars/DavidSchuchert/Batocera-WebDashboard-Pro?style=flat&color=fbbf24)](https://github.com/DavidSchuchert/Batocera-WebDashboard-Pro)
-[![License](https://img.shields.io/badge/License-MIT-0ea5e9?style=flat)](https://github.com/DavidSchuchert/Batocera-WebDashboard-Pro/blob/main/LICENSE)
-[![Last Commit](https://img.shields.io/github/last-commit/DavidSchuchert/Batocera-WebDashboard-Pro?style=flat&color=10b981)](https://github.com/DavidSchuchert/Batocera-WebDashboard-Pro/commits/main)
+Two install modes:
+- **Remote** — run from your PC/Mac, connect via SSH
+- **Native** — push-install directly onto Batocera via SSH
 
 <p align="center">
 <a href="https://github.com/DavidSchuchert/Batocera-WebDashboard-Pro" target="_blank">
@@ -46,65 +33,43 @@
 </a>
 </p>
 
-</details>
+<a href="https://github.com/DavidSchuchert/Batocera-WebDashboard-Pro" target="_blank"><img src="https://img.shields.io/github/stars/DavidSchuchert/Batocera-WebDashboard-Pro?style=flat&color=fbbf24" alt="Stars"/></a>
+<a href="https://github.com/DavidSchuchert/Batocera-WebDashboard-Pro/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-0ea5e9?style=flat" alt="License"/></a>
+<a href="https://github.com/DavidSchuchert/Batocera-WebDashboard-Pro/commits/main"><img src="https://img.shields.io/github/last-commit/DavidSchuchert/Batocera-WebDashboard-Pro?style=flat&color=10b981" alt="Last Commit"/></a>
 
 ---
 
 ## Tech Stack
 
 ### Languages
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="44" height="44"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="44" height="44"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="44" height="44"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="44" height="44"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="44" height="44"/>
-</p>
+![TypeScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg)
+![JavaScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg)
+![PHP](https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg)
+![HTML5](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg)
+![CSS3](https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg)
 
 ### Frameworks & Libraries
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="44" height="44"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="Angular" width="44" height="44"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" alt="Laravel" width="44" height="44"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="Vue" width="44" height="44"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind" width="44" height="44"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="44" height="44"/>
-</p>
+![React](https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg)
+![Angular](https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg)
+![Laravel](https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original-wordmark.svg)
+![Vue](https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg)
+![Tailwind CSS](https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg)
+![Bootstrap](https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg)
 
 ### Databases & Backend
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="44" height="44"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" alt="SQLite" width="44" height="44"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="44" height="44"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-original.svg" alt="Firebase" width="44" height="44"/>
-</p>
+![MySQL](https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg)
+![SQLite](https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg)
+![PostgreSQL](https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg)
+![Firebase](https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-original-wordmark.svg)
 
 ### DevOps & Tools
-<p>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="44" height="44"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/git/git-plain.svg" alt="Git" width="44" height="44"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="Figma" width="44" height="44"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="Nginx" width="44" height="44"/>
-</p>
-
----
-
-## Kontakt
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/david-schuchert-0ab892283/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin" alt="LinkedIn" height="28">
-  </a>
-  <a href="https://david-schuchert.de" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-david--schuchert.de-CB9DF0?style=for-the-badge&logo=globe&logoColor=white" alt="Portfolio" height="28">
-  </a>
-  <a href="https://dbe.academy" target="_blank">
-    <img src="https://img.shields.io/badge/DBE-Academy-10b981?style=for-the-badge&logo=academia&logoColor=white" alt="DBE Academy" height="28">
-  </a>
-</p>
+![Docker](https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg)
+![Git](https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg)
+![Figma](https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg)
+![Nginx](https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg)
 
 ---
 
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=DavidSchuchert&icon=5&color=6" width="140"/>
+<img src="https://visitcount.itsvg.in/api?id=DavidSchuchert&icon=5&color=6" width="140"/>
 </p>
