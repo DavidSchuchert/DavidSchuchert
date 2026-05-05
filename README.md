@@ -82,8 +82,4 @@ Two install modes:
 
 ---
 
-![Snake](https://raw.githubusercontent.com/DavidSchuchert/DavidSchuchert/output/github-snake-dark.svg)
-
-<p align="center">
-<img src="https://visitcount.itsvg.in/api?id=DavidSchuchert&icon=5&color=6" width="140"/>
-</p>
+![Snake](https://raw.githubusercontent.com/DavidSchuchert/DavidSchuchert/output/dist/github-snake-dark.svg)
