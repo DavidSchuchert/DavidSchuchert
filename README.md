@@ -82,4 +82,4 @@ Two install modes:
 
 ---
 
-![Snake](https://raw.githubusercontent.com/DavidSchuchert/DavidSchuchert/output/dist/github-snake-dark.svg)
+![Snake](https://github.com/DavidSchuchert/DavidSchuchert/raw/output/github-snake-dark.svg)
